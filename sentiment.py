@@ -12,7 +12,7 @@ st.sidebar.title("Sentiment Analysis of tweets about US Airlines")
 st.markdown(" This app streamlit dashboard to analyze sentiments of tweets 🐦  --- by Priyanka Gupta")
 st.sidebar.markdown(" This app streamlit dashboard to analyze sentiments of tweets 🐦 ")
 
-DATA_URL = "C:/Users/Priyanka/Desktop/pyhton/Tweets.csv"
+DATA_URL = "Tweets.csv"
 
 @st.cache(persist=True)
 
