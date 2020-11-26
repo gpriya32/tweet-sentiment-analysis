@@ -1,5 +1,5 @@
 **Tweet Sentiment Analysis Dashboard**
 
-**Tweet sentiment analysis: Sentiment analysis is the automated process of analyzing text data and sorting it into sentiments positive, negative, or neutral. Using sentiment analysis tools to analyze opinions in Twitter data can help companies understand how people are talking about their brand.**
+**Sentiment analysis is the automated process of identifying and classifying subjective information in text data. This might be an opinion, a judgment, or a feeling about a particular topic or product feature.**
 
-[WEB APP](gpriya32/tweet-sentiment-analysis)
+[WEB APP](https://tweet-sentiment-analysis-17171.herokuapp.com/)
