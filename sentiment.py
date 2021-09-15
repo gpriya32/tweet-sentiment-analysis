@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 st.title("Sentiment Analysis of tweets about US Airlines")
 st.sidebar.title("Sentiment Analysis of tweets about US Airlines")
 
-st.markdown(" This app streamlit dashboard to analyze sentiments of tweets 🐦  --- by Priyanka Gupta")
+st.markdown(" This app streamlit dashboard to analyze sentiments of tweets 🐦")
 st.sidebar.markdown(" This app streamlit dashboard to analyze sentiments of tweets 🐦 ")
 
 DATA_URL = "Tweets.csv"
